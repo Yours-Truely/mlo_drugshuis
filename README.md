@@ -13,6 +13,5 @@ How to add to your FiveM Server ->
 3. Place the resource in your resource directory 
 4. Add "ensure mlo_drugshuis" to your server.cfg
 5. Enjoy
-
-* Ignore 
+ 
 CFX.re post: https://forum.cfx.re/t/release-mlo-interior-mlo-drugshuis-crypto-mining-interior/3065956/3
